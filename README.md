@@ -1,5 +1,8 @@
 # I'm Jinha 🥲
 
+## svg embed test
+[![asciicast](https://asciinema.org/a/325730.svg)](https://asciinema.org/a/325730)
+
 <!--
 **JinhaHwang/JinhaHwang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
